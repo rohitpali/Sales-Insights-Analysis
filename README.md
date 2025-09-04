@@ -125,21 +125,6 @@ USE sales_insights;
 - Export reports as needed
 - Set up automatic refresh schedule
 
-### File Structure
-```
-Sales-Insights-Project/
-├── README.md
-├── db_dump.sql                 # Database schema and sample data
-├── data_cleaning_scripts.sql   # SQL cleaning procedures
-├── sales_dashboard.pbix        # Power BI dashboard file
-├── documentation/
-│   ├── data_dictionary.md
-│   └── user_guide.md
-└── screenshots/
-    ├── dashboard_overview.png
-    └── key_insights.png
-```
-
 ### Usage Tips
 - Use date slicers to analyze specific time periods
 - Drill down on charts for detailed insights
